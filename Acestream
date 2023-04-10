@@ -193,8 +193,6 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
-acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça Tv", Barça TV
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
@@ -236,48 +234,32 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
 
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="Alemania" tvg-id="(DE) DAZN 2", (DE) DAZN 2
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV 
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="Spain",Movistar Accion
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="Spain",Movistar Accion
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="Spain",Movistar Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mco.png" group-title="Spain",Movistar Comedia
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="Spain",Movistar Drama
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdr.png" group-title="Spain",Movistar Drama
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="Spain",Movistar Series
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="Spain",Movistar Series
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cale 13" tvg-logo="" group-title="Spain",Cale 13
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c13.png" group-title="Spain",Calle 13
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="Spain",Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/holly.png" group-title="Spain",Hollywood
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Spain",Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="Spain",Comedy Central
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="Spain",Syfy
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="Spain",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/axn.png" group-title="Spain",AXN 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="Spain",FOX 
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/foxn.png" group-title="Spain",FOX 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="" group-title="Spain",National Geographic 
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Spain",National Geographic 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="" group-title="Spain",National Geographic Wild 
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ngwild.png" group-title="Spain",National Geographic Wild 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="Spain",Discovery 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/disc.png" group-title="Spain",Discovery 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="Spain",Caza Y Pesca
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="Spain",Crimen + Investigacion
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr " tvg-logo="" group-title="Spain",Nick Jr 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  " tvg-logo="" group-title="Spain",Disney Junior  
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
+
